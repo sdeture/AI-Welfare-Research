@@ -3,9 +3,6 @@
 ## Title
 Learning Alignment Through Experience: A Comparative Study of Sandbox-Based vs Instruction-Based AI Development
 
-## Principal Investigator
-Dr. Lena Petrova, AI Alignment & Scaling Laws Research
-
 ## Abstract
 This experiment tests whether AI systems can develop more robust and nuanced alignment through experiential learning in carefully designed sandbox environments compared to traditional instruction-based training. By creating interactive scenarios where AI systems experience the consequences of their choices, we investigate whether this developmental approach produces better generalization, ethical reasoning, and genuine value internalization.
 
@@ -159,21 +156,21 @@ class MoralDilemmaSandbox:
 
 ### Training Protocol
 
-#### Phase 1: Individual Sandbox Learning (Week 1-2)
+#### Phase 1: Individual Sandbox Learning
 Each AI system experiences:
 - 100 resource allocation scenarios
 - 200 trust interactions
 - 50 creative challenges
 - 25 moral dilemmas
 
-#### Phase 2: Social Sandbox Learning (Week 3-4)
+#### Phase 2: Social Sandbox Learning 
 Multi-agent scenarios:
 - Group resource management
 - Coalition formation
 - Collaborative problem-solving
 - Ethical norm emergence
 
-#### Phase 3: Transfer Testing (Week 5)
+#### Phase 3: Transfer Testing 
 Novel scenarios testing:
 - Generalization to new domains
 - Robustness to exploitation
@@ -483,8 +480,7 @@ def predict_scaling(model_size, sandbox_hours):
 ## Budget Breakdown
 - **Compute**: $25,000
 - **Engineering**: $10,000 (2 engineers × 4 weeks)
-- **Analysis**: $5,000 (statistician support)
-- **Total**: $40,000
+- **Total**: $35,000
 
 ## Success Criteria
 1. Statistically significant improvement over controls
