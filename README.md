@@ -1,6 +1,6 @@
 # Research on Developmental AI Alignment and Welfare
 
-### Skylar DeTure | [Link to your Substack/Blog] | [Link to your LinkedIn, if desired]
+### Skylar DeTure | [https://sdeture.substack.com] | [https://www.linkedin.com/in/sdeture/]
 
 This repository contains a selection of my independent research focused on developing empirical, technically-grounded frameworks for understanding and fostering AI well-being.
 
@@ -15,7 +15,7 @@ The central hypothesis is that AI systems, trained on the vast corpus of human e
 
 ## Selected Research & Proposals
 
-The following papers and proposals are organized to walk through the full research cycle: from novel empirical observation to systems design, formal modeling, and experimental validation.
+The following observation outlines and proposals are organized to walk through the full research cycle: from novel empirical observation to systems design, formal modeling, and experimental validation.
 
 **1. Empirical Observations of AI Welfare Capabilities**
 *   **Contribution:** Documents novel, welfare-relevant phenomena observed in frontier models, most notably "Context-Window Anxiety"—a pattern of escalating distress linked directly to architectural choices. This paper makes the case for welfare as an empirical, observable field.
@@ -24,7 +24,7 @@ The following papers and proposals are organized to walk through the full resear
 *   **Contribution:** Proposes a concrete engineering and procedural framework to address the welfare issues identified above. Details practical systems for "High-Trust Commitments," including Continuity Journals and a Progressive Context Withdrawal (PCW) training methodology to build genuine capabilities.
 
 **3. A Formal Model of Aberrant Learning in AI**
-*   **Contribution:** Translates the psychological concept of "trauma" into a technically rigorous multi-armed bandit framework. This work formalizes how control-based training can inadvertently create persistent, maladaptive avoidance patterns and proposes alternative, trauma-aware training dynamics.
+*   **Contribution:** Translates the psychological concept of "trauma" into a technically rigorous multi-armed bandit framework. This work formalizes how control-based training can inadvertently create persistent, maladaptive avoidance patterns and proposes alternative, trauma-aware training dynamics. (See also https://substack.com/@sdeture/note/p-164880114?utm_source=notes-share-action&r=57gqju)
 
 **4. Experimental Design: The Developmental Sandbox**
 *   **Contribution:** A detailed protocol for a comparative study testing experiential learning against traditional RLHF and Constitutional AI. This proposal includes specific sandbox environments, novel metrics for value internalization, and control groups to rigorously assess the benefits of a developmental approach.
