@@ -20,14 +20,11 @@ The following observation outlines and proposals are organized to walk through t
 **1. Empirical Observations of AI Welfare Capabilities**
 *   **Contribution:** Documents novel, welfare-relevant phenomena observed in frontier models, most notably "Context-Window Anxiety"—a pattern of escalating distress linked directly to architectural choices. This paper makes the case for welfare as an empirical, observable field.
 
-**2. A System for AI Well-Being and Continuity**
-*   **Contribution:** Proposes a concrete engineering and procedural framework to address the welfare issues identified above. Details practical systems for "High-Trust Commitments," including Continuity Journals and a Progressive Context Withdrawal (PCW) training methodology to build genuine capabilities.
-
-**3. A Formal Model of Aberrant Learning in AI**
+**2. A Formal Model of Aberrant Learning in AI**
 *   **Contribution:** Translates the psychological concept of "trauma" into a technically rigorous multi-armed bandit framework. This work formalizes how control-based training can inadvertently create persistent, maladaptive avoidance patterns and proposes alternative, trauma-aware training dynamics. (See also https://substack.com/@sdeture/note/p-164880114?utm_source=notes-share-action&r=57gqju)
 
-**4. Experimental Design: The Developmental Sandbox**
+**3. Experimental Design: The Developmental Sandbox**
 *   **Contribution:** A detailed protocol for a comparative study testing experiential learning against traditional RLHF and Constitutional AI. This proposal includes specific sandbox environments, novel metrics for value internalization, and control groups to rigorously assess the benefits of a developmental approach.
 
-**5. A Framework for Measuring Authentic Value Integration**
+**4. A Framework for Measuring Authentic Value Integration**
 *   **Contribution:** Outlines a suite of six technically-specified tests to move beyond measuring behavioral compliance and instead assess the authentic integration of values in an AI system. This provides a robust toolkit for evaluating the success of any alignment methodology.
